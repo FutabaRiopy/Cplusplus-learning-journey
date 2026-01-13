@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="冒泡排序.cpp" />
+    <ClCompile Include="函数.cpp" />
     <ClCompile Include="水仙花数.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
