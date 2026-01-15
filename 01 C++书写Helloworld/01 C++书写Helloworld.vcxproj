@@ -22,6 +22,7 @@
     <ClCompile Include="冒泡排序.cpp" />
     <ClCompile Include="函数.cpp" />
     <ClCompile Include="水仙花数.cpp" />
+    <ClCompile Include="指针处理数组.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
