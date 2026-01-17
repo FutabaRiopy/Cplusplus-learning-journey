@@ -23,6 +23,7 @@
     <ClCompile Include="函数.cpp" />
     <ClCompile Include="水仙花数.cpp" />
     <ClCompile Include="指针处理数组.cpp" />
+    <ClCompile Include="结构体相关.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

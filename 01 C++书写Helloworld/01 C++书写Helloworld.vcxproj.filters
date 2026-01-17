@@ -27,5 +27,8 @@
     <ClCompile Include="指针处理数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="结构体相关.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
